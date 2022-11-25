@@ -1,0 +1,20 @@
+[ {
+  "command" : "getPlayerDeck",
+  "playerIdx" : 2,
+  "output" : [ ]
+}, {
+  "command" : "getPlayerDeck",
+  "playerIdx" : 1,
+  "output" : [ ]
+}, {
+  "command" : "getPlayerHero",
+  "playerIdx" : 1,
+  "output" : null
+}, {
+  "command" : "getPlayerHero",
+  "playerIdx" : 2,
+  "output" : null
+}, {
+  "command" : "getPlayerTurn",
+  "output" : 0
+} ]

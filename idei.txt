@@ -1,0 +1,9 @@
+1. primesc de la input deckul primului jucator si deckul celui de-al doilea -> trebuie sa le setez de la inceput
+
+2. primesc un array de gameinput, ce reprezinta fiecare joc in parte
+
+3. pentru fiecare joc, primesc start game si actions
+	start game arata	- cu ce deck incep jucatorii
+				- cu ce seed amestecam deckurile
+				- hero-ul jucatorilor 
+				- cine incepe jocul
